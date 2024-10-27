@@ -1,0 +1,6 @@
+p\lolameChest\Manager\ChestManager.class
+p\lolameChest\Listener\ServerLoadListener.class
+p\lolameChest\Manager\ConfigManager.class
+p\lolameChest\Utils\ConfigItem.class
+p\lolameChest\LolameChest.class
+p\lolameChest\Commands\ReloadChest.class

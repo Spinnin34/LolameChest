@@ -1,0 +1,20 @@
+chest:
+  areas:
+    - start: 78,92,105
+      end: 100,85,151
+    - start: 150,60,50
+      end: 170,65,80
+
+  item:
+    DIAMOND:
+      probability: 50
+      interval: 1-20
+      name: "Diamante"
+      lore:
+        - "Un poderoso diamante"
+    IRON_INGOT:
+      probability: 20
+      interval: 10-64
+      name: "Lingote de hierro"
+      lore:
+        - "Un lingote valioso"

@@ -1,0 +1,9 @@
+name: LolameChest
+version: '1.0'
+main: p.lolameChest.LolameChest
+api-version: '1.19'
+commands:
+  reloadchest:
+    description: "Recarga los cofres en las áreas especificadas."
+    usage: "/<command>"
+    permission: chest.reload.area
